@@ -1,4 +1,4 @@
-# Project cài đặt lưu đồ thuật toán làm theo mấy bài trên slide thầy nha, còn cái repository này tạo để đề phòng có nộp sau này
+# Project cài đặt lưu đồ thuật toán = Python làm theo mấy bài trên slide thầy nha, còn cái repository này tạo để đề phòng có nộp sau này
 # Một số lưu ý lại
 
 - Để tránh conflicts thì mình sẽ làm theo một cách là mỗi một người sẽ tự tạo cho mình 1 branch, và trong branch đó mọi người tạo một folder có tên là tên của mình. Trong folder này mình tạo Solution rồi hoàn thành assignment.
