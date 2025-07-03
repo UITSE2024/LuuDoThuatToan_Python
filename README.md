@@ -30,7 +30,7 @@
         
         2. Vào web Github, chọn "Compare and pull request" trên branch của mình
      
-        3. Tự tạo PR và accept PR.
+        3. Tự tạo PR và đợi accept.
 
 - List phân công vẫn như cũ
     + Chính 1, 13, 25, 37, 49, 61, 73, 85, 97, 109, 121, 133, 145
