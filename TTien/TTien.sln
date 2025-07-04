@@ -19,6 +19,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "083", "083\083.pyproj", "{4
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "095", "095\095.pyproj", "{934DE6DF-A9BE-4A7A-A431-15114B45EB8D}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "107", "107\107.pyproj", "{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,12 @@ Global
 		{934DE6DF-A9BE-4A7A-A431-15114B45EB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{934DE6DF-A9BE-4A7A-A431-15114B45EB8D}.Release|x64.ActiveCfg = Release|Any CPU
 		{934DE6DF-A9BE-4A7A-A431-15114B45EB8D}.Release|x86.ActiveCfg = Release|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Release|x64.ActiveCfg = Release|Any CPU
+		{6656D9A7-CCCF-43F5-BFA3-F9412DF312D5}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
